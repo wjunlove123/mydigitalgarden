@@ -1,5 +1,5 @@
 ---
-{"title":"k8s集群升级","dg-publish":true,"dg-home":true,"permalink":"/k8s//k8s/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"k8s集群升级","dg-publish":true,"permalink":"/k8s//k8s/","dgPassFrontmatter":true}
 ---
 
 ##### kubernetes 1.24.8版本升级到1.25.9
