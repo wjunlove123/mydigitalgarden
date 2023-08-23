@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/k8s//open-observe/","dgPassFrontmatter":true}
 ---
 
-#### OpenObserve
 
 openObserve 是⼀个 Rust 开发的开源的⾼性能云原⽣可观测平台（⽇志、指标、追踪），⽐起 Elasticsearch 它⼤约可以节省 140 倍的存储成本，OpenObserve 能够处理 PB 级的数据。
 
