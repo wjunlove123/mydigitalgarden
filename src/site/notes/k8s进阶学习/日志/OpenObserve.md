@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/k8s//open-observe/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/k8s进阶学习/日志/OpenObserve/","dgPassFrontmatter":true}
 ---
 
 
