@@ -1,5 +1,5 @@
 ---
-{"title":"VictoriaLogs","dg-publish":true,"permalink":"/k8s//victoria-logs/","dgPassFrontmatter":true}
+{"title":"VictoriaLogs","dg-publish":true,"permalink":"/k8s进阶学习/监控/VictoriaLogs/","dgPassFrontmatter":true}
 ---
 
 
