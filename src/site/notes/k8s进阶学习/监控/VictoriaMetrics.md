@@ -1,5 +1,5 @@
 ---
-{"title":"VictoriaMetrics","dg-publish":true,"permalink":"/k8s//victoria-metrics/","dgPassFrontmatter":true}
+{"title":"VictoriaMetrics","dg-publish":true,"permalink":"/k8s进阶学习/监控/VictoriaMetrics/","dgPassFrontmatter":true}
 ---
 
 ### 背景
