@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/k8s//efk/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/k8s进阶学习/日志/搭建EFK日志系统/","dgPassFrontmatter":true}
 ---
 
 **Elasticsearch** 是⼀个实时的、分布式的可扩展的搜索引擎，允许进⾏全⽂、结构化搜 索，它通常⽤于索引和搜索⼤量⽇志数据，也可⽤于搜索许多不同类型的⽂档
