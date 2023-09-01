@@ -198,22 +198,17 @@ service:
 从上⾯配置⽂件可以看出定义了 4 个接收器(receiver)：
 
 + hostmetrics 接收器 
-
 + kubeletstats 接收器 
-
 - otlp 接收器 
-
 - prometheus 接收器
 
 4个处理器（processor）：
-
 - batch 处理器
 - memory_limiter 处理器
 - k8sattributes 处理器
 - metricstransform 处理器
 
 2个导出器(exporter):
-
 - logging 导出器
 - prometheus 导出器
 
