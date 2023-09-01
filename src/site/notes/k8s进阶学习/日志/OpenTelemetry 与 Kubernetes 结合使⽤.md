@@ -15,9 +15,9 @@ Kubernetes 以多种不同的⽅式暴露了许多重要的遥测数据。它具
 
 通过helm chart安装后，查看其配置文件
 
-> `helm  upgrade --install opentelemetry-collector -f otel-collector-ds-values.yaml -n kube-otel  .`
+`helm  upgrade --install opentelemetry-collector -f otel-collector-ds-values.yaml -n kube-otel  .`
 
-> `kubectl get cm opentelemetry-collector-agent -n kube-otel -oyaml`
+`kubectl get cm opentelemetry-collector-agent -n kube-otel -oyaml`
 
 得到如下配置信息（已去除其它配置）
 
